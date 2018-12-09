@@ -1,5 +1,15 @@
-# parkingCitationsMLAnalysis
-Using data from Los Angeles Parking Citations (source:  Kaggle) for ML analysis
+# Los Angeles Parking Citations:  A Machine Learning Analysis
+Using data from Los Angeles Parking Citations (source:  Kaggle) for ML analysis, this project will determine high risk parking areas by assessing citation volume based on time of day and utilizing pattern recognition on violation types.  
+
+This project will allow new predictions such that users can enter in the street name and hour to generate a low/risk parking warnings.
+
+#  About the Data Frame
+* Data set size:  232 MB
+* Data set format:  .csv, .json
+* Update Frequency:  Daily
+* Data Entries (as of Nov. 1, 2018): 8,359,441 
+* Data fields:  Ticket Number, Issue Date, Issue time, Meter ID, Marked Time, RP State Plate, Plate Expiry Date, VIN, Make, Body Style, Color, Location, Route, Agency, Violation Code, Violation Description, Fine Amount, Latitude, Longitude
+
 
 #  Files
 There are three total files: 
