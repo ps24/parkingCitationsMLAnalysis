@@ -36,5 +36,5 @@ directly and I will email you the files.
 5.  Input street name and hour to predict the risk of recieving a parking citation in Los Angeles.
 
 #  User Interface
-After step 5, the following interface will appear for user entries.
-
+**After step 5, the following interface will appear for user entries.**
+![alt text](UserInputScreenShot.png)
