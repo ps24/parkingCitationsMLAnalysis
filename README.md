@@ -25,7 +25,7 @@ directly and I will email you the files.
 
 **Steps:**
 
-1.  Open a Google Colab notebook
+1.  Open a Google Colab or Jupyter notebook.  (Google Colab notebook is recommended).
 
 2.  Open 'MLproject.ipynb' in Google Colab notebook and select 'Runtime' --> 'Run All'
 
@@ -34,3 +34,7 @@ directly and I will email you the files.
 4.  Wait 5 minutes for data load and machine learning algorithms to run.
 
 5.  Input street name and hour to predict the risk of recieving a parking citation in Los Angeles.
+
+#  User Interface
+After step 5, the following interface will appear for user entries.
+
