@@ -25,15 +25,17 @@ directly and I will email you the files.
 
 **Steps:**
 
-1.  Open a Google Colab or Jupyter notebook.  (Google Colab notebook is recommended).
+1.  Log into your google CSUF account.  Only CSUF google users are permitted to access the data files.  If you are a non-CSUF google user, please reach out to me and I will email you the data files.
 
-2.  Open 'MLproject.ipynb' in Google Colab notebook and select 'Runtime' --> 'Run All'
+2.  Open a Google Colab or Jupyter notebook.  (Google Colab notebook is recommended).
 
-3.  Authenticate Google Account for GDrive access to the data files.
+3.  Open 'MLproject.ipynb' in Google Colab notebook and select 'Runtime' --> 'Run All'
 
-4.  Wait 5 minutes for data load and machine learning algorithms to run.
+4.  Authenticate Google Account for GDrive access to the data files.
 
-5.  Input street name and hour to predict the risk of recieving a parking citation in Los Angeles.
+5.  Wait 5 minutes for data load and machine learning algorithms to run.
+
+6.  Input street name and hour to predict the risk of recieving a parking citation in Los Angeles.
 
 #  User Interface
 **After step 5, the following interface will appear for user entries.**
